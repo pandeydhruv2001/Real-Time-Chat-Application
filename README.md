@@ -28,10 +28,10 @@ Access the live chat application [here](https://64cbf22f1f25c20a3fc41343--lighth
 
 ## Installation and Usage
 
-1. **Clone the repository:** `git clone https://github.com/your-username/your-chat-app.git`
+1. **Clone the repository:** `git clone https://github.com/pandeydhruv2001/Real-Time-Chat-Application.git`
 2. **Navigate to the project directory:**
-   - Backend: `cd your-chat-app/server`
-   - Frontend: `cd your-chat-app/client`
+   - Backend: `cd Real-Time-Chat-Application/server`
+   - Frontend: `cd Real-Time-Chat-Application/client`
 3. **Install dependencies:**
    - Backend: `npm install`
    - Frontend: `npm install`
@@ -42,7 +42,17 @@ Access the live chat application [here](https://64cbf22f1f25c20a3fc41343--lighth
 
 ## Suggestions and Feedback
 
-We welcome your suggestions and feedback for improving the Real-Time Chat Application. If you have any ideas, feature requests, or encounter any issues, please feel free to reach out to us via email at [dp0689@srmist.edu.in](mailto:dp0689@srmist.edu.in).
+We welcome your suggestions and feedback for improving the Real-Time Chat Application. If you have any ideas, feature requests, or encounter any issues, please feel free to reach out to us via email at [dp0689@srmist.edu.in](mailto:your.email@example.com).
+
+## Contributing
+
+We welcome contributions to enhance the application's features and fix issues. If you'd like to contribute, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch: `git checkout -b feature/your-feature-name`
+3. Make your changes and commit them: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin feature/your-feature-name`
+5. Create a pull request
 
 ## Credits
 
